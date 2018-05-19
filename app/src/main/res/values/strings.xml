@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Example App</string>
+    <string name="d">Sdkkk</string>
+
+    <string name="hello">Hello Android</string>
+    <string name="disp">Replace this with any text in code</string>
+    <string name="btnTxt">Next</string>
+
+    <string name="code">This is displayed from code</string>
+
+    <string name="name">Enter your name</string>
+
+    <string name="greet">Hey</string>
+
+
+</resources>
